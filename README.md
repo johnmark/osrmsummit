@@ -1,6 +1,10 @@
 # osrmsummit
 ## Open Source Risk Management Summit 
 
+### Goal
+
+Create a 1-day curriculum around open source and risk management to teach and train professionals in risk, finance, and audit how to think about open source software.
+
 ### Topics 
 
 Measuring Risk - What metrics can be used to measure risk. How does one determine acceptable risk? What are the baselines from which to measure trends?
